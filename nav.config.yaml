@@ -7,7 +7,7 @@
 # 联系授权：https://official.nav3.cn/pricing
 
 # 仓库地址
-gitRepoUrl: https://github.com/xjh22222228/nav
+gitRepoUrl: https://github.com/johannes1989/nav
 
 # Gitee | GitHub
 provider: GitHub
@@ -28,7 +28,7 @@ password: admin
 port: 7777
 
 # 收录通知邮箱
-email: ''
+email: '25652815@qq.com'
 
 # 自有部署邮件通知系统
 mailConfig:
